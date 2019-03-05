@@ -1,0 +1,73 @@
+h1 {
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(255, 158, 239);
+    padding: 30px;
+    margin-left: 400px;
+    margin-right: 500px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+header {
+    text-align: center;
+    border: 8px dotted pink; 
+    background-color: rgb(209, 160, 255);
+}
+body {
+    background-color: rgb(140, 186, 255);
+}
+
+#container {
+    border : 5px dotted rgb(15, 14, 15);
+    padding: 30px;
+    margin-left: 289px;
+    margin-right: 376px;
+    margin-top: 20px;
+}
+
+
+.guessMe  {
+    border: 5px solid black;
+    padding: 30px;
+    margin-left: 169px;
+    margin-right: 186px;
+    margin-top: 20px;
+    background-color: rgb(255, 164, 220);
+    text-align: center;
+    
+}
+
+.rightBt {
+    border: 5px solid black;
+    padding: 30px;
+    margin-left: 169px;
+    margin-right: 186px;
+    background-color: rgb(255, 164, 220);;
+    text-align: center;
+
+}
+
+
+.wrongBt {
+    border: 5px solid black;
+    padding: 30px;
+    margin-left: 169px;
+    margin-right: 186px;
+    background-color: rgb(255, 164, 220);;
+    text-align: center;
+
+}
+
+button {
+    background-color: darkmagenta;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
