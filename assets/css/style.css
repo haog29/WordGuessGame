@@ -79,3 +79,14 @@ button {
     margin-left: 349px;
     margin-top: 10px;
 }
+
+.Energy {
+    background-color: darkmagenta;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 320px;
+    margin-top: 5px;
+
+}
